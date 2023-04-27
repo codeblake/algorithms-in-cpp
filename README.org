@@ -1,0 +1,4 @@
+#+title: Algorithms in C++
+
+* Searching Algorithms
+  - Binary Search (iterative & recursive solutions)
